@@ -28,7 +28,7 @@ authors:
     email: soham.de_ug22@ashoka.edu.in
     web: https://www.sohamde.in
     twitter: https://twitter.com/actuallysoham
-    description: "Associate Editor, CS Representative"
+    description: "Editor, CS Representative"
   uttamasha:
     name: Uttamasha Dutta
     display_name: Uttamasha Dutta
@@ -50,6 +50,12 @@ authors:
     web: https://www.linkedin.com/in/soham-bagchi/
     email: soham.bagchi_ug22@ashoka.edu.in
     description: "Associate Editor, CS Society President"
+  mukund:
+    name: Mukund Maithani
+    display_name: Mukund Maithani
+    avatar: 'assets/images/mukund.png'
+    email: mukund.maithani_asp22@ashoka.edu.in
+    description: "Associate Editor, Phil Society Representative"
 
 # Societies
 societies:
