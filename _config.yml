@@ -29,6 +29,27 @@ authors:
     web: https://www.sohamde.in
     twitter: https://twitter.com/actuallysoham
     description: "Associate Editor, CS Representative"
+  uttamasha:
+    name: Uttamasha Dutta
+    display_name: Uttamasha Dutta
+    avatar: 'assets/images/uttamasha.png'
+    email: uttamasha.dutta_ug22@ashoka.edu.in
+    web: https://www.linkedin.com/in/uttamasha-dutta-5552491b1/
+    description: "Associate Editor, Anthro-Socio Representative"
+  Khushi:
+    name: Khushi Mehta
+    display_name: Khushi Mehta
+    avatar: 'assets/images/khushi.jpeg'
+    web: https://www.linkedin.com/in/khushi-mehta-7a09661a1/
+    email: khushi.mehta_ug22@ashoka.edu.in
+    description: "Associate Editor, WiCS President"
+  sohamb:
+    name: Soham Bagchi
+    display_name: Soham Bagchi
+    avatar: 'assets/images/bagchi.png'
+    web: https://www.linkedin.com/in/soham-bagchi/
+    email: soham.bagchi_ug22@ashoka.edu.in
+    description: "Associate Editor, CS Society President"
 
 # Societies
 societies:
@@ -60,7 +81,7 @@ societies:
     email: citta@ashoka.edu.in
     description: "Journal of the Philosophy Society at Ashoka"
   aues:
-    name: AuES
+    name: AUES
     display_name: Ashoka University Economics Society
     avatar: 'assets/images/aues.png'
     email: econsoc@ashoka.edu.in
